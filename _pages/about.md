@@ -13,7 +13,7 @@ profile:
     <p>City: Chengdu, 611731</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 # announcements:
 #   enabled: true # includes a list of news items
@@ -34,6 +34,6 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently a 3rd-year **undergraduate student** at Yingcai Honors College, University of Electronic Science and Technology of China (UESTC), expected to complete my bachelor’s degree in 2026. My research interest includes generative models, efficient AI and computer vision.
 
-In the past, I also interned at EPIC (Efficient and Precision Intelligent Computing) laboratory, at Shanghai Jiao Tong University, advised by Prof.[Linfeng Zhang](http://www.zhanglinfeng.tech/). 
+In the past, I also interned at EPIC (Efficient and Precision Intelligent Computing) laboratory, at Shanghai Jiao Tong University, advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/). 
 
-I was born in Sichuan, China. Outside of academics, I am interested in programming contests. I have participated in the **China Collegiate Programming Contest** and won a bronze medal in the Chongqing.
+I was born in Sichuan, China. Outside of academics, I am interested in programming contests. I have participated in the **China Collegiate Programming Contest** and won a bronze medal in Chongqing.
